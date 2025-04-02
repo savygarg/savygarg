@@ -1,10 +1,17 @@
   Hi there! 👋 I'm Savy Garg  
 🚀 Web Developer | 🌱 Learning React & AI | 💡 Open Source Enthusiast  
-
+![Profile Views](https://komarev.com/ghpvc/?username=savygarg&color=blue)
  🔥 About Me
 - 🎓 First-year CSE student passionate about web development and AI.
 - 🌍 Working on [SustainaSphere](https://github.com/sustainasphere) & Multi-Agent AI Systems.
 - 💼 Building innovative web solutions and contributing to open-source projects.
+
+## 🌱 Currently Learning
+- 🚀 React.js & Frontend Development  
+- 📊 SQL & Database Management  
+- 🔥 C & DSA for Competitive Programming  
+- ✨ Exploring Open-Source Contributions
+
 
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,6 +25,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=savygarg&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&theme=radical)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savy-garg)
