@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=radical" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&theme=radical" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&theme=radical" />
 </div>
 
 ## 📫 Connect with Me  
