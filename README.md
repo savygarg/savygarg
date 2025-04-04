@@ -42,7 +42,6 @@
 ## 📊 **GitHub Stats & Streak**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=radical" height="180em" />
- <img src="https://img.shields.io/badge/GitHub%20Streak-🔥%20100-red?style=for-the-badge&logo=github" />
   <img src="https://github-profile-trophy.vercel.app/?username=savygarg&theme=radical&no-frame=true&column=7" />
 </div>  
 
