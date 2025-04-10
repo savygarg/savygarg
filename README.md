@@ -1,8 +1,7 @@
 # **Hi there!** 👋 I'm **Savy Garg**  
 🚀 **Web Developer | 🌱 Learning React & AI | 💡 Open Source Enthusiast**  
+  
 
-![Profile Views](https://komarev.com/ghpvc/?username=savygarg&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/savygarg?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/savygarg?style=social)  
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
