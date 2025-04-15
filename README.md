@@ -39,9 +39,9 @@
 ---
 
 ## 📊 **GitHub Stats & Streak**  
-![](https://github-readme-stats.vercel.app/api?username=shivangi0817-tawar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivangi0817-tawar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi0817-tawar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=savygarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=savygarg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivangi0817-tawar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=savygarg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🎯 **Featured Projects**  
 🔹 **[SustainaSphere](https://github.com/sustainasphere)** – Sustainability Awareness Platform   
