@@ -4,12 +4,12 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/savygarg?style=social)  
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
 
 ---
 
 ## 🔥 **About Me**  
-- 🎓 **First-year CSE student** passionate about **Web Development & AI.**  
+- 🎓 **Second-year CSE student** passionate about **Web Development & AI.**  
 - 🌍 Currently working on **[SustainaSphere](https://github.com/sustainasphere) & Multi-Agent AI Systems.**  
 - 💼 **Building innovative web solutions** and contributing to **open-source projects.**  
 - 🏆 **Winner of Sustainable Centre Website Competition!**  
