@@ -57,27 +57,31 @@ Currently:
 
 ---
 
+---
+
 ## Contributions & GitHub Activity  
 
 ### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-### Contribution Streak
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=savygarg&theme=default&hide_border=true" />
-</p>
-
-### Contribution Graph
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savygarg&theme=minimal" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&cache_seconds=1800" />
 </p>
 
 ### Top Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&theme=default&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&cache_seconds=1800" />
 </p>
+
+### Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=savygarg" />
+</p>
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savygarg" />
+</p>
+
+
 
 ---
 
