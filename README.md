@@ -62,14 +62,7 @@ Currently:
 ## Contributions & GitHub Activity  
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&cache_seconds=1800" />
-</p>
 
-### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&cache_seconds=1800" />
-</p>
 
 ### Contribution Streak
 <p align="center">
