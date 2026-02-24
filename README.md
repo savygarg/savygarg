@@ -1,78 +1,87 @@
-# **Hi there!** 👋 I'm **Savy Garg**  
-🚀 **Web Developer | 🌱 Learning React & AI | 💡 Open Source Enthusiast**  
-  
+# Hi, I'm Savy Garg  
 
-![GitHub stars](https://img.shields.io/github/stars/savygarg?style=social)  
-
-
+Computer Science Engineering Student | Full-Stack Developer | ML-Integrated Systems  
 
 ---
 
-## 🔥 **About Me**  
-- 🎓 **Second-year CSE student** passionate about **Web Development & AI.**  
-- 🌍 Currently working on **[SustainaSphere](https://github.com/sustainasphere) & Multi-Agent AI Systems.**  
-- 💼 **Building innovative web solutions** and contributing to **open-source projects.**  
-- 🏆 **Winner of Sustainable Centre Website Competition!**  
-- 🎯 **Preparing for GSoC & internships.**  
+## About Me  
+
+I am a second-year Computer Science Engineering student focused on building scalable and meaningful technology solutions. My experience spans full-stack web development, database systems, and system-level programming.
+
+I led the development of SustainaSphere, a completed sustainability platform featuring a carbon footprint calculator, AI chatbot, and gamified eco-challenges, our project abstract was selected for the Student Symposium, where we secured 3rd prize. I also led my team to secure 1st place for my Sustainable Center Website in a college level Competition.
+Currently:
+- Working on a hardware project integrated with Machine Learning  
+- Strengthening Data Structures & Algorithms  
+- Expanding backend and database expertise  
+
+
+
+## Tech Stack  
+
+### Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
+
+### Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 **What I'm Working On**  
-✅ **SustainaSphere** – A platform for sustainability awareness  
-✅ **Full-Stack Web Apps** – Learning **React.js, SQL, and Backend Development**  
+## Current Focus  
+
+- ML Integration in Hardware Systems  
+- Advanced DSA & Problem Solving  
+- Full-Stack Application Development  
+- Database Design & Optimization  
 
 ---
 
-## 🌱 **Currently Learning**  
-- ⚛️ **React.js & Frontend Development**  
-- 🗄 **SQL & Database Management**  
-- 🏆 **Competitive Programming (C & DSA)**  
-- 🌍 **Open-Source Contributions & GitHub Best Practices**  
+## Featured Projects  
+
+- **SustainaSphere** – Sustainability platform with AI-powered tools  
+- **Finance Empowerment App Prototype** – AI-driven financial insights platform  
+- **Sustainable Centre** - A platform which explore's Chitkara's Sustainable Centre promoting sustainability  
 
 ---
 
-## 🛠️ **Tech Stack**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,sql,c,git,github,vscode,figma" />
-</div>  
+## Contributions & GitHub Activity  
+
+### GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=savygarg&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+### Contribution Streak
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=savygarg&theme=default&hide_border=true" />
+</p>
+
+### Contribution Graph
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savygarg&theme=minimal" />
+</p>
+
+### Top Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats & Streak**  
-![](https://github-readme-stats.vercel.app/api?username=savygarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=savygarg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=savygarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Connect With Me  
 
----
-
-## 🏆 **Recent GitHub Activity**  
-<!--START_SECTION:activity-->
-💪 Opened an issue in [SustainaSphere](https://github.com/sustainasphere)   
-🔧 Fixed a bug in **SustainaSphere Frontend**  
-🌟 Starred a **cool open-source project**  
-<!--END_SECTION:activity-->
-
----
-
-## 🌟 **GitHub Contribution Graph**  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savygarg&theme=radical" />
-</div>
-
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=savygarg&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🎯 **Featured Projects**  
-🔹 **[SustainaSphere](https://github.com/sustainasphere)** – Sustainability Awareness Platform   
-🔹 **[Finance Empowerment App](https://github.com/savygarg/finance-ai)** – AI-driven financial insights for women  
-
----
-
-## 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savy-garg)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savygarg)  
-
----
-
-🔥 **Fun Fact:** *I can't survive without coffee!* ☕😆  
+[LinkedIn](https://www.linkedin.com/in/savy-garg)  
+[GitHub](https://github.com/savygarg)
