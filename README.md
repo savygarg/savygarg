@@ -9,6 +9,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=savygarg&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=savygarg&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+</p> -->
